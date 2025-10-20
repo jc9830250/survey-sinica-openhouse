@@ -1,0 +1,41 @@
+/* 通用樣式 */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%; /* 使頁面填滿整個視窗 */
+    overflow: hidden; /* 防止頁面滾動條出現 */
+}
+
+#mapViewDiv {
+    height: 100%; /* 使地圖容器填滿整個頁面 */
+    width: 100%; /* 使地圖容器寬度填滿頁面 */
+}
+
+/* 手機裝置的樣式調整 */
+@media (max-width: 768px) {
+    #mapViewDiv {
+        height: calc(100% - 50px); /* 預留一些空間，比如導航欄或其他 UI */
+    }
+
+    body {
+        font-size: 14px; /* 手機上的字體調整 */
+    }
+}
+
+/* 平板裝置的樣式調整 */
+@media (min-width: 768px) and (max-width: 1024px) {
+    #mapViewDiv {
+        height: 100%; /* 平板設備仍然顯示全屏地圖 */
+    }
+}
+
+/* 桌面裝置的樣式調整 */
+@media (min-width: 1025px) {
+    #mapViewDiv {
+        height: 100%; /* 桌面顯示全屏地圖 */
+    }
+
+    body {
+        font-size: 16px; /* 桌面上的字體調整 */
+    }
+}

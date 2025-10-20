@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "morning off peak time",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "故宮博物院(正館)", "geometry\/coordinates\/0": 121.549257, "geometry\/coordinates\/1": 25.101952 }, "geometry": { "type": "Point", "coordinates": [ 121.549257, 25.101952 ] } },
+{ "type": "Feature", "properties": { "name": "民生國中", "geometry\/coordinates\/0": 121.5676949, "geometry\/coordinates\/1": 25.06018904 }, "geometry": { "type": "Point", "coordinates": [ 121.5676949, 25.06018904 ] } },
+{ "type": "Feature", "properties": { "name": "時報廣場", "geometry\/coordinates\/0": 121.5821212, "geometry\/coordinates\/1": 25.06808488 }, "geometry": { "type": "Point", "coordinates": [ 121.5821212, 25.06808488 ] } },
+{ "type": "Feature", "properties": { "name": "松江新村", "geometry\/coordinates\/0": 121.5333498, "geometry\/coordinates\/1": 25.0612684 }, "geometry": { "type": "Point", "coordinates": [ 121.5333498, 25.0612684 ] } },
+{ "type": "Feature", "properties": { "name": "捷運南港展覽館站(南港路)", "geometry\/coordinates\/0": 121.6179651, "geometry\/coordinates\/1": 25.05487875 }, "geometry": { "type": "Point", "coordinates": [ 121.6179651, 25.05487875 ] } },
+{ "type": "Feature", "properties": { "name": "民權復興路口", "geometry\/coordinates\/0": 121.5446524, "geometry\/coordinates\/1": 25.06222037 }, "geometry": { "type": "Point", "coordinates": [ 121.5446524, 25.06222037 ] } },
+{ "type": "Feature", "properties": { "name": "捷運行天宮站", "geometry\/coordinates\/0": 121.5331557, "geometry\/coordinates\/1": 25.0598422 }, "geometry": { "type": "Point", "coordinates": [ 121.5331557, 25.0598422 ] } },
+{ "type": "Feature", "properties": { "name": "松山車站(八德)", "geometry\/coordinates\/0": 121.576598, "geometry\/coordinates\/1": 25.050168 }, "geometry": { "type": "Point", "coordinates": [ 121.576598, 25.050168 ] } },
+{ "type": "Feature", "properties": { "name": "週美里一", "geometry\/coordinates\/0": 121.581993, "geometry\/coordinates\/1": 25.056132 }, "geometry": { "type": "Point", "coordinates": [ 121.581993, 25.056132 ] } },
+{ "type": "Feature", "properties": { "name": "玉成里", "geometry\/coordinates\/0": 121.5809119, "geometry\/coordinates\/1": 25.05092253 }, "geometry": { "type": "Point", "coordinates": [ 121.5809119, 25.05092253 ] } },
+{ "type": "Feature", "properties": { "name": "西湖國中", "geometry\/coordinates\/0": 121.5656, "geometry\/coordinates\/1": 25.08577 }, "geometry": { "type": "Point", "coordinates": [ 121.5656, 25.08577 ] } },
+{ "type": "Feature", "properties": { "name": "康寧醫院", "geometry\/coordinates\/0": 121.6071, "geometry\/coordinates\/1": 25.07610159 }, "geometry": { "type": "Point", "coordinates": [ 121.6071, 25.07610159 ] } },
+{ "type": "Feature", "properties": { "name": "興安華城", "geometry\/coordinates\/0": 121.5439555, "geometry\/coordinates\/1": 25.05685077 }, "geometry": { "type": "Point", "coordinates": [ 121.5439555, 25.05685077 ] } },
+{ "type": "Feature", "properties": { "name": "光華商場", "geometry\/coordinates\/0": 121.5315442, "geometry\/coordinates\/1": 25.0456428 }, "geometry": { "type": "Point", "coordinates": [ 121.5315442, 25.0456428 ] } },
+{ "type": "Feature", "properties": { "name": "捷運松江南京站", "geometry\/coordinates\/0": 121.5329812, "geometry\/coordinates\/1": 25.05228153 }, "geometry": { "type": "Point", "coordinates": [ 121.5329812, 25.05228153 ] } },
+{ "type": "Feature", "properties": { "name": "長春松江路口", "geometry\/coordinates\/0": 121.533011, "geometry\/coordinates\/1": 25.05500621 }, "geometry": { "type": "Point", "coordinates": [ 121.533011, 25.05500621 ] } },
+{ "type": "Feature", "properties": { "name": "文德二號公園", "geometry\/coordinates\/0": 121.583667, "geometry\/coordinates\/1": 25.077078 }, "geometry": { "type": "Point", "coordinates": [ 121.583667, 25.077078 ] } },
+{ "type": "Feature", "properties": { "name": "大直美堤花園一", "geometry\/coordinates\/0": 121.5588327, "geometry\/coordinates\/1": 25.07983259 }, "geometry": { "type": "Point", "coordinates": [ 121.5588327, 25.07983259 ] } },
+{ "type": "Feature", "properties": { "name": "新益里", "geometry\/coordinates\/0": 121.566269, "geometry\/coordinates\/1": 25.062445 }, "geometry": { "type": "Point", "coordinates": [ 121.566269, 25.062445 ] } },
+{ "type": "Feature", "properties": { "name": "瑞光路", "geometry\/coordinates\/0": 121.5776, "geometry\/coordinates\/1": 25.07474699 }, "geometry": { "type": "Point", "coordinates": [ 121.5776, 25.07474699 ] } },
+{ "type": "Feature", "properties": { "name": "湖興", "geometry\/coordinates\/0": 121.5906612, "geometry\/coordinates\/1": 25.06803087 }, "geometry": { "type": "Point", "coordinates": [ 121.5906612, 25.06803087 ] } }
+]
+}

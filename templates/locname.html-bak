@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>FLASK / HTML</title>
+  </head>
+  <body>
+    <h1> 編號:{{id}} <h1>
+    <h1> 地址:{{name}} <h1>
+      id = id,latitude=latitude,longitude=longitude,name=name,group=group)
+  </body>
+   <script type="text/javascript">
+_path = window.location.pathname;
+ ids = _path.split('/');
+_id = ids[ids.length-1]
+//var connection = new WebSocket('ws://192.168.70.211:8001/websocket?id='+_id);
+var connection = new WebSocket('ws://140.109.171.96:8001/websocket?id='+_id);
+connection.onopen = function(){
+ connection.send(ids[ids.length-1]);
+}
+connection.onmessage = function (evt) {
+   alert(evt.data);
+};
+</script>
+</html>
