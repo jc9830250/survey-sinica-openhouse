@@ -1,6 +1,6 @@
 //var connection = new WebSocket('ws://192.168.70.211:8001/websocket');
 //var connection = new WebSocket('ws://192.168.70.211:8001/websocket?id=map_loc');
-var connection = new WebSocket('ws://140.109.171.96:8001/websocket?id=map_loc');
+var connection = new WebSocket('ws://localhost:8001/websocket?id=map_loc');
 //var connection = new ReconnectingWebSocket('ws://140.109.171.96:8001/websocket?id=map_loc',null, {debug: true, reconnectInterval: 1000});
 require([
     "esri/Map",
