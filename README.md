@@ -19,3 +19,10 @@
 
 <img width="1915" height="939" alt="影像 (4)" src="https://github.com/user-attachments/assets/8887394c-8318-466d-912d-b7ca10aed2f5" />
 
+##技術及framework
+1. WEBGIS  
+   arcgis
+2. Restfulapi    
+   Flask
+5. WEBSOCKET  
+   tornado websocket
