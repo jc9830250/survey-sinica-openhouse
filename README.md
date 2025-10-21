@@ -6,8 +6,9 @@
 3. nohup python3 gis_websocket_server.py /dev/null 2>&1 &
 ## Usage
 1.  大地圖
-    http://ip/ryanma
+    http://localhost/ryanma
 2. 地圖打點
-   http://ip/loc/"id"
+   http://localhost/loc/"id"
 3. 全部點上
-   http://<ip>/loc/280-data
+   http://localhost/loc/280-data
+如果需修改IP，修正static/script.js
